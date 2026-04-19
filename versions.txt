@@ -1,4 +1,4 @@
 
-adt-lib = "1.0.1"
-adt-hud = "1.0.2"
+adt-lib = "1.0.0"
+adt-hud = "1.0.0"
 adt-chat = "1.0.0"
