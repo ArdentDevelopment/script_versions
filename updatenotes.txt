@@ -1,1 +1,4 @@
 
+adt-lib = " updated version check " -- 1.0.1 release notes
+adt-hud = "added pma voice support" -- 1.0.2 release notes
+adt-chat = " added extra protection for exports " -- 1.0.0 release notes
