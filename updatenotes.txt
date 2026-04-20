@@ -2,3 +2,5 @@
 adt-lib = "" -- 1.0.0 release notes
 adt-hud = "" -- 1.0.0 release notes
 adt-chat = "" -- 1.0.0 release notes
+adt-loading = "" -- 1.0.0 release notes
+
