@@ -2,3 +2,4 @@
 adt-lib = "1.0.0"
 adt-hud = "1.0.0"
 adt-chat = "1.0.0"
+adt-loading = "1.0.0"
